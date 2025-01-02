@@ -92,27 +92,26 @@ Here are the key screenshots showcasing the project:
 1. **Omniverse USD Files:** Factory layouts, machine components, and 3D models.  
    ![Omniverse USD Files](images/DigitalTwinTest1.png)
 
+   ![Omniverse USD Files](images/DigitalTwinTest4.png)
+
+   ![Omniverse USD Files](images/DigitalTwinTest5.png)
+
 
 2. **3D Model Placement:** Objects placed at various locations using Omniverse.  
-   `![Model Placement](path/to/model_placement.png)`
+   ![Omniverse USD Files](images/DigitalTwinTest2.png)
+
+   ![Omniverse USD Files](images/DigitalTwinTest3.png)
 
 3. **Omniverse Connection:** Localhost integration with server.  
-   `![Omniverse Connection](path/to/omniverse_connection.png)`
+   ![Omniverse USD Files](images/DigitalTwinTest6.png)
 
 4. **Real-Time Dashboard:** Real-time data visualization and USD model integration.  
-   `![Real-Time Dashboard](path/to/real_time_dashboard.png)`
+   ![Omniverse USD Files](images/DigitalTwinTest9.png)
 
 5. **Code Screenshots:** Omniverse scripts and React components.  
-   `![Code Screenshot](path/to/code_screenshot.png)`
-
-6. **Maintenance Workflow:** Alerts, tickets, and predictive maintenance setup.  
-   `![Maintenance Workflow](path/to/maintenance_workflow.png)`
-
-7. **Energy Monitoring:** HVAC and lighting system tracking in a smart building.  
-   `![Energy Monitoring](path/to/energy_monitoring.png)`
-
-8. **Analytics Panel:** Long-term trends and bottleneck identification.  
-   `![Analytics Panel](path/to/analytics_panel.png)`
+   ![Omniverse USD Files](images/DigitalTwinTest7.png)
+   
+   ![Omniverse USD Files](images/DigitalTwinTest8.png)
 
 ---
 
