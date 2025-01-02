@@ -1,0 +1,4 @@
+client/node_modules/
+server/node_modules/
+omniverse/venv/
+omniverse/templates/Warehouse.usd
