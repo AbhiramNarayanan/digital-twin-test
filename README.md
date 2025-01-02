@@ -90,7 +90,7 @@ digital-twin/
 Here are the key screenshots showcasing the project:
 
 1. **Omniverse USD Files:** Factory layouts, machine components, and 3D models.  
-   `![Factory Layout](path/to/factory_layout.png)`
+   `![Factory Layout](/images/Digital Twin test 1.png)`
 
 2. **3D Model Placement:** Objects placed at various locations using Omniverse.  
    `![Model Placement](path/to/model_placement.png)`
